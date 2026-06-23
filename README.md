@@ -50,13 +50,6 @@ I'm a Software Engineering graduate from NED University, currently focused on bu
 
 ---
 
-## 📊 GitHub Stats
-
-![Hina's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinazia&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hinazia&layout=compact)
-
----
 
 ## 🤝 Connect With Me
 
